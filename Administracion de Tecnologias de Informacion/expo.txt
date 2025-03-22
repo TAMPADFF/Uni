@@ -1,0 +1,46 @@
+linux y el software de codigo abierto
+
+El software de codigo abierto es software produdcido por una comunidad de varios cientos de miles de programadreos en todo
+el mundo, este software es gratis y cualquier persona puede descargarlo y modificarlo, estas obras derivadas del trabajo 
+original deben de ser gratuitas ademas de que el usuario puede redistribuir el software sin necesidad de licencias
+adicionales, por definicion el software de codigo abierto no esta restringido a ningun sistema operativo o tecnologia
+de hardware en especifico.
+
+linux
+
+cuando hablamos de linux si nos seguimos estrictamente a lo que el nombre linux se refiere estariamos hablando del kernel
+una parte basica en todos los sistemas operativos, es el que se encarga de la interaccion mas basica entre el software
+y el hardware, osea es un pequeno programita que hace que los programas hablen con el procesador, la tarjeta grafica, 
+el disco duro etc. Aunque Linux no se utiliza en muchos sistemas de escritorio, es un sistema operativo líder 
+en servidores, computadoras mainframe y supercomputadoras.
+
+Java 
+
+es un lenguaje de programación orientado a objetos, independiente del sistema operativo e independiente del procesador, 
+que se ha convertido en el principal entorno interactivo para Web. El software de Java está diseñado para ejecutarse en 
+cualquier computadora o dispositivo de cómputo, sin importar el microprocesador o sistema operativo específico que 
+utilice el dispositivo.
+
+HTML
+es un lenguaje de marcado utilizado para estructurar el contenido de páginas web. especifica la forma en que se 
+colocan el texto, los gráficos, el video y el sonido en una página Web, y para crear vínculos dinámicos a otras 
+páginas Web y objetos. 
+
+HTML5
+resuelve este problema al hacer posible la incrustación de imágenes, audio, video y otros elementos directamente en un 
+documento sin complementos que hagan uso intensivo del procesador.
+
+SERVICIOS WEB Y ARQUITECTURA ORIENTADA A SERVICIOS 
+
+Los servicios Web se refieren a un conjunto de componentes de software con acoplamiento débil, que intercambian 
+información entre sí mediante el uso de estándares y lenguajes de comunicación Web universales. Pueden intercambiar 
+información entre dos sistemas distintos, sin importar los sistemas operativos o lenguajes de programación en que se 
+basen esos sistemas. Se pueden utilizar para crear aplicaciones basadas en Web con estándares abiertos que vinculen 
+sistemas de dos organizaciones distintas, y también se pueden usar para crear aplicaciones que vinculen sistemas 
+dispares dentro de una sola compañía.
+
+La tecnología base para los servicios Web es XML, que significa Lenguaje de marcado extensible.
+diseñado para almacenar, estructurar e intercambiar datos de manera organizada y legible tanto para humanos como 
+para computadoras.A diferencia de HTML, que define la apariencia de una página web, XML se enfoca en describir 
+los datos mediante etiquetas personalizadas. En XML, un número no es tan sólo una cifra; la etiqueta de XML 
+especifica si ésta representa un precio, una fecha o un código postal.
